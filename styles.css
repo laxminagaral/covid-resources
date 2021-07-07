@@ -1,0 +1,66 @@
+.intro{
+    border-radius: 20px;
+    margin: 10px;
+    background-color: rgb(255, 149, 149);
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    padding: 5px;
+    border: 0px;
+    border-radius: 5px;
+}
+input{
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    text-transform: lowercase;
+
+}
+
+.card{
+    text-align: center;
+   
+    margin: auto;
+    height: 30px;
+    padding: 10px;
+   border-radius:10px ;
+    width: fit-content;
+    background-color: rgb(230, 169, 3);
+}
+.card a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.menu{
+    display: flex;
+    margin: 5px;
+    align-items: center;
+}
+
+.data-card{
+    background-color: rgb(189, 191, 192);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    
+}
+.rec-card{
+background-color: rgb(255, 251, 0);
+border-radius: 5px;
+padding: 3px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.imgs{
+    width: 100%;
+}
